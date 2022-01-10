@@ -6,4 +6,7 @@ Louise is a playwright who is looking to start a crowdfunding campaign to fund h
 To do this, I analyzed data from various Kickstarter campaigns to determine if there are any trends in start times, fundraising goals, or other factors that can be implemented in Louise’s project.
 
 ### Purpose 
+The purpose of this analysis is to determine if there are any trends in start times, fundraising goals, or other factors that can be implemented in Louise’s project.
+
+## Analyis and Challenges 
 
